@@ -1,0 +1,1 @@
+ I was not happy with free mobile chess games because you couldn't see the animation of the computer's moves, picking a piece up, moving it. It doesn't help you at chess but it does help with immersion. There is also a timer and its in react-native. 
